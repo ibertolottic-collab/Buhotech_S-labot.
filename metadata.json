@@ -1,0 +1,6 @@
+{
+  "name": "Buhotech Sílabot",
+  "description": "Buhotech Sílabot: Diseñador y condensador curricular de sílabos universitarios con agente IA multimodelo, validación matemática de horas y formato oficial institucional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
